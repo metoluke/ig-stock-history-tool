@@ -1,0 +1,1 @@
+# ig-stock-history-tool
